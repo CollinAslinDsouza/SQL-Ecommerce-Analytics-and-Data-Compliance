@@ -19,7 +19,7 @@ Global E-Commerce Analytics &amp; GDPR Compliance Case Study.  An end-to-end SQL
 ---
 
 ## 🗄️ Part 1: Dataset and Table Creations
-**🔗 SQL Script:** [`01_dataset_table_creations.sql`](./scripts/01_dataset_table_creations.sql)
+**🔗 SQL Script:** [`01_dataset_table_creations.sql`](./Scripts/01_dataset_table_creations.sql)
 
 Managing a global storefront requires a scalable and normalized relational database to ensure data integrity and query efficiency. This database (`project_ecommerce`) is structured into five core tables:
 
@@ -32,7 +32,7 @@ Managing a global storefront requires a scalable and normalized relational datab
 ---
 
 ## 📈 Part 2: Analysis and Business Case Solutions
-**🔗 SQL Script:** [`02_analysis_business_cases.sql`](./scripts/02_analysis_business_cases.sql)
+**🔗 SQL Script:** [`02_analysis_business_cases.sql`](./Scripts/02_analysis_business_cases.sql)
 
 To solve the strategic challenges of the business, advanced SQL querying (CTEs, Window Functions, Aggregations) was deployed. Below are 5 critical, data-driven insights reported to executive management based on the database outputs:
 
@@ -79,7 +79,7 @@ To solve the strategic challenges of the business, advanced SQL querying (CTEs, 
 ---
 
 ## 🔒 Part 3: GDPR & Data Governance Compliance
-**🔗 SQL Script:** [`03_gdpr_data_governance.sql`](./scripts/03_gdpr_data_governance.sql)
+**🔗 SQL Script:** [`03_gdpr_data_governance.sql`](./Scripts/03_gdpr_data_governance.sql)
 
 As global data privacy regulations tighten, organizations must safely handle the "Right to be Forgotten" without breaking historical financial records. This project implements an enterprise-grade compliance protocol directly in the database.
 
